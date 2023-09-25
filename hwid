@@ -1,0 +1,5 @@
+local hwids = {
+"A344F6A7-F792-4870-9CD5-18C16814EA4C"
+}
+
+return hwids
